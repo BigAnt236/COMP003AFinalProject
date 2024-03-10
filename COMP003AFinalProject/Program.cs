@@ -2,6 +2,7 @@
  * Author: Anthony Alvarez
  * Course: COMP-003A
  * Purpose: COMP-003A final project
+ */
 
 namespace COMP003AFinalProject
 {
